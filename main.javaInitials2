@@ -1,0 +1,6 @@
+public class Main
+{
+    public static void main(String[] args) {
+        System.out.println("RRRRRRR  CCCCCCCC  CCCCCCCC    \nRR  RR   CCC       CCC\nRRRRRR   CCC       CCC\nRR   RR  CCC       CCC \nRR   RR  CCCCCCCC  CCCCCCCC\n");
+    }
+}
